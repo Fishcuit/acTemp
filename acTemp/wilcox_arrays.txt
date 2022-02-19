@@ -1,0 +1,12 @@
+
+Matrix Multiplication Table
+
+ 1 * 4 = 4
+ 2 * 4 = 8
+ 3 * 4 = 12
+ 4 * 4 = 16
+ 55 * 4 = 220
+Scaler: 4
+Matrix size: 5
+
+

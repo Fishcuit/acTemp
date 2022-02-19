@@ -1,0 +1,8 @@
+File Name: wilcox_temps.txt
+Temp Type: F
+Minimum Range: 80
+Maximum Range: 90
+Number of Temperatures: 5
+Min Temp: 81
+Max Temp: 89
+Avg temp: 86

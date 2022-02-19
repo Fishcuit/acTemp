@@ -1,0 +1,6 @@
+Last name: wilcox
+Temperature Type: F
+Minimum range: 90
+Maximum range: 100
+Number of temps generated: 1
+99
